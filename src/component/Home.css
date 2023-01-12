@@ -1,0 +1,30 @@
+.bg-section-2{
+    background-color: #0C2534;
+    
+}
+.bg-section-3{
+    width: 80%;
+    margin: auto;
+}
+h2,h4,p{
+   
+ color: white;
+}
+
+.sliderSize{
+    width: 80%;
+    margin: auto;
+    height: 60vh;
+    padding:30px 0px 30px 0px;
+}
+.bg-section4{
+    background-color: #F2E3E3;
+    height: 70vh;
+}
+.LottieHome{
+    padding: 0px !important;
+}
+
+.NAvbar{
+    background-color: #00BA7C !important;
+}

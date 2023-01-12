@@ -1,0 +1,22 @@
+
+.bg-BannerImg{
+    background-image: url('./images/Group-27.png');
+    background-position: center;
+    padding: 220px 0px 220px 0px;
+    max-width: 100% !important;
+    overflow: hidden;
+    /* background-repeat: no-repeat; */
+}
+
+p{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.second-section{
+    background-color: #F4E7E7;
+}
+
+.section-4{
+    width: 35% !important;
+}
